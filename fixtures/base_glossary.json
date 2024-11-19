@@ -1,0 +1,14 @@
+[
+  {"pk": 1, "fields": {"russian_word": "Красный", "english_word": "Red"}},
+  {"pk": 2, "fields": {"russian_word": "Зеленый", "english_word": "Green"}},
+  {"pk": 3, "fields": {"russian_word": "Синий", "english_word": "Blue"}},
+  {"pk": 4, "fields": {"russian_word": "Белый", "english_word": "White"}},
+  {"pk": 5, "fields": {"russian_word": "Черный", "english_word": "Black"}},
+  {"pk": 6, "fields": {"russian_word": "Слово", "english_word": "Word"}},
+  {"pk": 7, "fields": {"russian_word": "Семья", "english_word": "Family"}},
+  {"pk": 8, "fields": {"russian_word": "Женщина", "english_word": "Woman"}},
+  {"pk": 9, "fields": {"russian_word": "Мужчина", "english_word": "Man"}},
+  {"pk": 10, "fields": {"russian_word": "Друг", "english_word": "Friend"}},
+  {"pk": 11, "fields": {"russian_word": "Имя", "english_word": "Name"}},
+  {"pk": 12, "fields": {"russian_word": "Люди", "english_word": "People"}}
+]
